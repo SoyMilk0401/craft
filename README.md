@@ -4,6 +4,10 @@
 
 단순한 물질의 결합뿐만 아니라 추상적인 개념, 인물, 현상 등 다양한 범주의 명사를 만들어낼 수 있습니다.
 
+## 스크린샷
+
+![캡처](https://github.com/SoyMilk0401/craft/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png)
+
 ##  주요 기능
 
 * **무한한 조합 시스템 (Generative Crafting)**
